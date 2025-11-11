@@ -43,8 +43,8 @@ This project completes the VectorShift technical assessment requirements:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/vectorshift-assessment.git
-cd vectorshift-assessment
+git clone https://github.com/yourusername/technical-assessment.git
+
 ```
 
 ### 2. Backend Setup
